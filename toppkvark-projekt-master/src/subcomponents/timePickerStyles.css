@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&family=Ubuntu:wght@300;400&display=swap');
+
+:root{
+    --mode: #1f4ea3;
+    --fontTheme: white;
+    --button: #0565e3;
+}
+
+.ant-message {
+    top: 87.3% !important;
+}
+
+
+.ant-modal-header {
+    border-bottom: none;
+    background-color: var(--mode);
+    color: var(--fontTheme);
+
+}
+
+.ant-modal-body {
+    background-color: var(--mode);
+    color: var(--fontTheme);
+}
+
+.ant-modal-footer{
+    border-top: 0px;
+    background-color: var(--mode);
+    color: var(--fontTheme);
+}
+
+
+.ant-modal-title{
+    color:var(--fontTheme);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 19px;
+}
+
+.timeTitles {
+    color: var(--fontTheme);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.ant-btn-primary{
+    border-color: var(--button);
+    background: var(--button);
+}

@@ -1,0 +1,3958 @@
+[
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22578,
+    "roomNumber": "07-204",
+    "roomDisplayName": "Support",
+    "searchRoomNames": [
+      "support",
+      "support",
+      "support"
+    ],
+    "popularName": "Support",
+    "kthPopularName": "Support",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\02\\07-204",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "2",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "8",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "02",
+    "floorId": "393",
+    "floorUid": "2a72d94b-8eea-4a6b-ae58-e47d47ddebfd",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "f6f5662c-cb45-4490-b614-4aac2afa2428",
+    "uid": "f6f5662c-cb45-4490-b614-4aac2afa2428",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": null
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\02\\07-204"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "2"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "8"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Support"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Support"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22579,
+    "roomNumber": "07-202",
+    "roomDisplayName": "Success",
+    "searchRoomNames": [
+      "success",
+      "success",
+      "success"
+    ],
+    "popularName": "Success",
+    "kthPopularName": "Success",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\02\\07-202",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "2",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "8",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "02",
+    "floorId": "393",
+    "floorUid": "2a72d94b-8eea-4a6b-ae58-e47d47ddebfd",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "4dd59eb1-b859-43f3-8eb8-932d57c93afd",
+    "uid": "4dd59eb1-b859-43f3-8eb8-932d57c93afd",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": null
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\02\\07-202"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "2"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "8"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Success"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Success"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22671,
+    "roomNumber": "10-311",
+    "roomDisplayName": "Sö-Grupprum 9",
+    "searchRoomNames": [
+      "sö-grupprum 9",
+      "sö-grupprum 9",
+      "sö-grupprum 9"
+    ],
+    "popularName": "Sö-Grupprum 9",
+    "kthPopularName": "Sö-Grupprum 9",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-311",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "8",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "1989ac4a-799f-4a2d-9978-a6b618103635",
+    "uid": "1989ac4a-799f-4a2d-9978-a6b618103635",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Nej"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-311"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "8"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 9"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 9"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22674,
+    "roomNumber": "10-304",
+    "roomDisplayName": "Sö-Grupprum 1",
+    "searchRoomNames": [
+      "sö-grupprum 1",
+      "sö-grupprum 1",
+      "sö-grupprum 1"
+    ],
+    "popularName": "Sö-Grupprum 1",
+    "kthPopularName": "Sö-Grupprum 1",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-304",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "4",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "d29c7221-1ad7-41f7-9c8f-38546e729ceb",
+    "uid": "d29c7221-1ad7-41f7-9c8f-38546e729ceb",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-304"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "4"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 1"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 1"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22675,
+    "roomNumber": "10-305",
+    "roomDisplayName": "Sö-Grupprum 2",
+    "searchRoomNames": [
+      "sö-grupprum 2",
+      "sö-grupprum 2",
+      "sö-grupprum 2"
+    ],
+    "popularName": "Sö-Grupprum 2",
+    "kthPopularName": "Sö-Grupprum 2",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-305",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "4",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "d959dd45-19cf-49a4-aee5-e1ed63ddba47",
+    "uid": "d959dd45-19cf-49a4-aee5-e1ed63ddba47",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-305"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "4"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 2"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 2"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22676,
+    "roomNumber": "10-306",
+    "roomDisplayName": "Sö-Grupprum 3",
+    "searchRoomNames": [
+      "sö-grupprum 3",
+      "sö-grupprum 3",
+      "sö-grupprum 3"
+    ],
+    "popularName": "Sö-Grupprum 3",
+    "kthPopularName": "Sö-Grupprum 3",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-306",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "4",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "5741320e-a894-4d88-a588-a97cb19d8a56",
+    "uid": "5741320e-a894-4d88-a588-a97cb19d8a56",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-306"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "4"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 3"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 3"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22677,
+    "roomNumber": "10-307",
+    "roomDisplayName": "Sö-Grupprum 4",
+    "searchRoomNames": [
+      "sö-grupprum 4",
+      "sö-grupprum 4",
+      "sö-grupprum 4"
+    ],
+    "popularName": "Sö-Grupprum 4",
+    "kthPopularName": "Sö-Grupprum 4",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-307",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": false,
+    "url": "",
+    "numSeats": "4",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "2b82da08-549a-4006-9ae7-cd019985d2ba",
+    "uid": "2b82da08-549a-4006-9ae7-cd019985d2ba",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Nej"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\10-307"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "4"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 4"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": "Funka"
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 4"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22687,
+    "roomNumber": "07-307",
+    "roomDisplayName": "Sö-Grupprum 8",
+    "searchRoomNames": [
+      "sö-grupprum 8",
+      "sö-grupprum 8",
+      "sö-grupprum 8"
+    ],
+    "popularName": "Sö-Grupprum 8",
+    "kthPopularName": "Sö-Grupprum 8",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\07-307",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "d2c90f76-8249-498c-93f8-1213be8addc6",
+    "uid": "d2c90f76-8249-498c-93f8-1213be8addc6",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\07-307"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 8"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 8"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22688,
+    "roomNumber": "07-304",
+    "roomDisplayName": "Sö-Grupprum 5",
+    "searchRoomNames": [
+      "sö-grupprum 5",
+      "sö-grupprum 5",
+      "sö-grupprum 5"
+    ],
+    "popularName": "Sö-Grupprum 5",
+    "kthPopularName": "Sö-Grupprum 5",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\07-304",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "4",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "89e110be-65b6-4e13-8c2f-22d3ba26d800",
+    "uid": "89e110be-65b6-4e13-8c2f-22d3ba26d800",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\07-304"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "4"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 5"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 5"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22689,
+    "roomNumber": "07-305",
+    "roomDisplayName": "Sö-Grupprum 6",
+    "searchRoomNames": [
+      "sö-grupprum 6",
+      "sö-grupprum 6",
+      "sö-grupprum 6"
+    ],
+    "popularName": "Sö-Grupprum 6",
+    "kthPopularName": "Sö-Grupprum 6",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\07-305",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "485f873e-508c-4a02-8981-f27ed86b397f",
+    "uid": "485f873e-508c-4a02-8981-f27ed86b397f",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\07-305"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 6"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 6"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22690,
+    "roomNumber": "07-306",
+    "roomDisplayName": "Sö-Grupprum 7",
+    "searchRoomNames": [
+      "sö-grupprum 7",
+      "sö-grupprum 7",
+      "sö-grupprum 7"
+    ],
+    "popularName": "Sö-Grupprum 7",
+    "kthPopularName": "Sö-Grupprum 7",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\07-306",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "3",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "03",
+    "floorId": "394",
+    "floorUid": "96491f6a-669d-44ba-a3d9-2e487d20159c",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "f22e589d-ea8c-4a3e-a7ba-bd5d8c9b1aaa",
+    "uid": "f22e589d-ea8c-4a3e-a7ba-bd5d8c9b1aaa",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\03\\07-306"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "3"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 7"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 7"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22769,
+    "roomNumber": "07-405",
+    "roomDisplayName": "Sö-Grupprum 13",
+    "searchRoomNames": [
+      "sö-grupprum 13",
+      "sö-grupprum 13",
+      "sö-grupprum 13"
+    ],
+    "popularName": "Sö-Grupprum 13",
+    "kthPopularName": "Sö-Grupprum 13",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\04\\07-405",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "4",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "04",
+    "floorId": "395",
+    "floorUid": "6bd3ed17-d2fd-47e1-a88a-2d0ad793f0c8",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "0ac51d78-c203-456d-ac5c-380dce04b7c2",
+    "uid": "0ac51d78-c203-456d-ac5c-380dce04b7c2",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\04\\07-405"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "4"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 13"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 13"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22770,
+    "roomNumber": "07-402",
+    "roomDisplayName": "Sö-Grupprum 10",
+    "searchRoomNames": [
+      "sö-grupprum 10",
+      "sö-grupprum 10",
+      "sö-grupprum 10"
+    ],
+    "popularName": "Sö-Grupprum 10",
+    "kthPopularName": "Sö-Grupprum 10",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\04\\07-402",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "4",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "4",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "04",
+    "floorId": "395",
+    "floorUid": "6bd3ed17-d2fd-47e1-a88a-2d0ad793f0c8",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "b10d60bb-a4d2-42c3-b231-518d6e7c7887",
+    "uid": "b10d60bb-a4d2-42c3-b231-518d6e7c7887",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\04\\07-402"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "4"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "4"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 10"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 10"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22771,
+    "roomNumber": "07-403",
+    "roomDisplayName": "Sö-Grupprum 11",
+    "searchRoomNames": [
+      "sö-grupprum 11",
+      "sö-grupprum 11",
+      "sö-grupprum 11"
+    ],
+    "popularName": "Sö-Grupprum 11",
+    "kthPopularName": "Sö-Grupprum 11",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\04\\07-403",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "4",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "04",
+    "floorId": "395",
+    "floorUid": "6bd3ed17-d2fd-47e1-a88a-2d0ad793f0c8",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "6e145e4e-f9d0-40a6-8d26-ab010a06c22a",
+    "uid": "6e145e4e-f9d0-40a6-8d26-ab010a06c22a",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\04\\07-403"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "4"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 11"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 11"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.201794,
+      "long": 17.619933
+    },
+    "roomId": 22772,
+    "roomNumber": "07-404",
+    "roomDisplayName": "Sö-Grupprum 12",
+    "searchRoomNames": [
+      "sö-grupprum 12",
+      "sö-grupprum 12",
+      "sö-grupprum 12"
+    ],
+    "popularName": "Sö-Grupprum 12",
+    "kthPopularName": "Sö-Grupprum 12",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\04\\07-404",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Södertälje",
+    "buildingName": "Pyramiden 20",
+    "buildingId": 80,
+    "buildingUid": "be8ebdf0-3324-4c18-a153-844aef86b1be",
+    "streetAddress": "Kvarnbergagatan",
+    "streetNumber": "12",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Södertälje",
+    "zip": "151 36",
+    "floor": "4",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "04",
+    "floorId": "395",
+    "floorUid": "6bd3ed17-d2fd-47e1-a88a-2d0ad793f0c8",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "4c25958a-c486-46cf-9d18-26a94edfef3f",
+    "uid": "4c25958a-c486-46cf-9d18-26a94edfef3f",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Södertälje"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "SÖDERTÄLJE\\SNÄCKVIKEN\\PYRAMIDEN 20\\04\\07-404"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Kvarnbergagatan"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "12"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Pyramiden 20"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.201794"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.619933"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "4"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Sö-Grupprum 12"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "151 36"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Södertälje"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Sö-Grupprum 12"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  }
+]

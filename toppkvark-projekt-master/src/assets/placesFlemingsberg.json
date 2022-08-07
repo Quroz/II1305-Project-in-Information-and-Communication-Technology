@@ -1,0 +1,6156 @@
+[
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24986,
+    "roomNumber": "4115",
+    "roomDisplayName": "Fl-Grupprum 2",
+    "searchRoomNames": [
+      "fl-grupprum 2",
+      "fl-grupprum 2",
+      "fl-grupprum 1"
+    ],
+    "popularName": "Fl-Grupprum 1",
+    "kthPopularName": "Fl-Grupprum 2",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\04\\4115",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "4",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "04",
+    "floorId": "420",
+    "floorUid": "e50ecb55-015c-46ce-bc96-353b3b185bd8",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "de9f430f-d565-4db5-92df-b2df00d7e58d",
+    "uid": "de9f430f-d565-4db5-92df-b2df00d7e58d",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\04\\4115"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": "Open space"
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": "Öppet rum"
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "4"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 2"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 1"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 25039,
+    "roomNumber": "4116",
+    "roomDisplayName": "Fl-Grupprum 1",
+    "searchRoomNames": [
+      "fl-grupprum 1",
+      "fl-grupprum 1",
+      "fl-grupprum 2"
+    ],
+    "popularName": "Fl-Grupprum 2",
+    "kthPopularName": "Fl-Grupprum 1",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\04\\4116",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "4",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "04",
+    "floorId": "420",
+    "floorUid": "e50ecb55-015c-46ce-bc96-353b3b185bd8",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "949f8f95-8bf8-492b-8dff-563335b2b335",
+    "uid": "949f8f95-8bf8-492b-8dff-563335b2b335",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\04\\4116"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "4"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 1"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 2"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 25069,
+    "roomNumber": "5116",
+    "roomDisplayName": "Fl-Grupprum 4",
+    "searchRoomNames": [
+      "fl-grupprum 4",
+      "fl-grupprum 4",
+      "fl-grupprum 4"
+    ],
+    "popularName": "Fl-Grupprum 4",
+    "kthPopularName": "Fl-Grupprum 4",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5116",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "5",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "05",
+    "floorId": "421",
+    "floorUid": "6c9d1f0e-639a-4292-8acc-cfb4feb5dad6",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "51609840-214f-410d-bddf-47b02d96d236",
+    "uid": "51609840-214f-410d-bddf-47b02d96d236",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5116"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "5"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 4"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 4"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 25079,
+    "roomNumber": "5003",
+    "roomDisplayName": "Fl-Grupprum 5",
+    "searchRoomNames": [
+      "fl-grupprum 5",
+      "fl-grupprum 5",
+      "fl-grupprum 5"
+    ],
+    "popularName": "Fl-Grupprum 5",
+    "kthPopularName": "Fl-Grupprum 5",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5003",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "5",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "05",
+    "floorId": "421",
+    "floorUid": "6c9d1f0e-639a-4292-8acc-cfb4feb5dad6",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "1c13befa-365d-44ea-92ba-89285d2b87ab",
+    "uid": "1c13befa-365d-44ea-92ba-89285d2b87ab",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5003"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "5"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 5"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 5"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 25083,
+    "roomNumber": "5006",
+    "roomDisplayName": "Fl-Grupprum 7",
+    "searchRoomNames": [
+      "fl-grupprum 7",
+      "fl-grupprum 7",
+      "fl-grupprum 7"
+    ],
+    "popularName": "Fl-Grupprum 7",
+    "kthPopularName": "Fl-Grupprum 7",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5006",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "5",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "05",
+    "floorId": "421",
+    "floorUid": "6c9d1f0e-639a-4292-8acc-cfb4feb5dad6",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "788d143e-f0eb-457c-a19c-24efc23fd52b",
+    "uid": "788d143e-f0eb-457c-a19c-24efc23fd52b",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5006"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "5"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 7"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 7"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 25098,
+    "roomNumber": "5115",
+    "roomDisplayName": "Fl-Grupprum 3",
+    "searchRoomNames": [
+      "fl-grupprum 3",
+      "fl-grupprum 3",
+      "fl-grupprum 3"
+    ],
+    "popularName": "Fl-Grupprum 3",
+    "kthPopularName": "Fl-Grupprum 3",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5115",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "5",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "05",
+    "floorId": "421",
+    "floorUid": "6c9d1f0e-639a-4292-8acc-cfb4feb5dad6",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "ae4b040f-978c-4f9e-9fe2-9d9feaab0452",
+    "uid": "ae4b040f-978c-4f9e-9fe2-9d9feaab0452",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5115"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": "Öppet rum"
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": "Open Space"
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": "Öppet rum"
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "5"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 3"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 3"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 25149,
+    "roomNumber": "5007",
+    "roomDisplayName": "Fl-Grupprum 8",
+    "searchRoomNames": [
+      "fl-grupprum 8",
+      "fl-grupprum 8",
+      "fl-grupprum 8"
+    ],
+    "popularName": "Fl-Grupprum 8",
+    "kthPopularName": "Fl-Grupprum 8",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5007",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "5",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "05",
+    "floorId": "421",
+    "floorUid": "6c9d1f0e-639a-4292-8acc-cfb4feb5dad6",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "a16135ee-e92d-44e5-9e92-4c056deb3c7a",
+    "uid": "a16135ee-e92d-44e5-9e92-4c056deb3c7a",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5007"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": "Öppet rum"
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": "Open Space"
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": "Öppet rum"
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "5"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 8"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 8"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 25150,
+    "roomNumber": "5004",
+    "roomDisplayName": "Fl-Grupprum 6",
+    "searchRoomNames": [
+      "fl-grupprum 6",
+      "fl-grupprum 6",
+      "fl-grupprum 6"
+    ],
+    "popularName": "Fl-Grupprum 6",
+    "kthPopularName": "Fl-Grupprum 6",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5004",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "5",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "05",
+    "floorId": "421",
+    "floorUid": "6c9d1f0e-639a-4292-8acc-cfb4feb5dad6",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "6274cc93-dea0-45a9-afa2-7c3aad08ee87",
+    "uid": "6274cc93-dea0-45a9-afa2-7c3aad08ee87",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\05\\5004"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "5"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 6"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 6"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24181,
+    "roomNumber": "6003",
+    "roomDisplayName": "Fl-Grupprum 9",
+    "searchRoomNames": [
+      "fl-grupprum 9",
+      "fl-grupprum 9",
+      "fl-grupprum 9"
+    ],
+    "popularName": "Fl-Grupprum 9",
+    "kthPopularName": "Fl-Grupprum 9",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6003",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "e1eb1764-828a-417e-a192-c01b8210e64c",
+    "uid": "e1eb1764-828a-417e-a192-c01b8210e64c",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6003"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 9"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 9"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24184,
+    "roomNumber": "6006",
+    "roomDisplayName": "Fl-Grupprum 11",
+    "searchRoomNames": [
+      "fl-grupprum 11",
+      "fl-grupprum 11",
+      "fl-grupprum 11"
+    ],
+    "popularName": "Fl-Grupprum 11",
+    "kthPopularName": "Fl-Grupprum 11",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6006",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "8d5e7d5c-3bf7-4137-9312-b6f875f5ad5e",
+    "uid": "8d5e7d5c-3bf7-4137-9312-b6f875f5ad5e",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6006"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 11"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 11"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24204,
+    "roomNumber": "6007",
+    "roomDisplayName": "Fl-Grupprum 12",
+    "searchRoomNames": [
+      "fl-grupprum 12",
+      "fl-grupprum 12",
+      "fl-grupprum 12"
+    ],
+    "popularName": "Fl-Grupprum 12",
+    "kthPopularName": "Fl-Grupprum 12",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6007",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "0c830f19-5db6-4fcb-92e3-f4c111041194",
+    "uid": "0c830f19-5db6-4fcb-92e3-f4c111041194",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6007"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": "Öppet rum"
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": "Open space"
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": "Open space"
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 12"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 12"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24206,
+    "roomNumber": "6004",
+    "roomDisplayName": "Fl-Grupprum 10",
+    "searchRoomNames": [
+      "fl-grupprum 10",
+      "fl-grupprum 10",
+      "fl-grupprum 10"
+    ],
+    "popularName": "Fl-Grupprum 10",
+    "kthPopularName": "Fl-Grupprum 10",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6004",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "04fc2b31-03c5-45c0-b7e3-140756aefe0f",
+    "uid": "04fc2b31-03c5-45c0-b7e3-140756aefe0f",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6004"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 10"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 10"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24217,
+    "roomNumber": "6602",
+    "roomDisplayName": "Fl-Grupprum 17",
+    "searchRoomNames": [
+      "fl-grupprum 17",
+      "fl-grupprum 17",
+      "fl-grupprum 17"
+    ],
+    "popularName": "Fl-Grupprum 17",
+    "kthPopularName": "Fl-Grupprum 17",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6602",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "fb26aca7-ce09-4b53-952b-8e5164f1a720",
+    "uid": "fb26aca7-ce09-4b53-952b-8e5164f1a720",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6602"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 17"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 17"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24228,
+    "roomNumber": "6011",
+    "roomDisplayName": "Fl-Grupprum 15",
+    "searchRoomNames": [
+      "fl-grupprum 15",
+      "fl-grupprum 15",
+      "fl-grupprum 15"
+    ],
+    "popularName": "Fl-Grupprum 15",
+    "kthPopularName": "Fl-Grupprum 15",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6011",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "003252a7-5e67-4458-825b-93d9dd4776d4",
+    "uid": "003252a7-5e67-4458-825b-93d9dd4776d4",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6011"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 15"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 15"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24229,
+    "roomNumber": "6009",
+    "roomDisplayName": "Fl-Grupprum 14",
+    "searchRoomNames": [
+      "fl-grupprum 14",
+      "fl-grupprum 14",
+      "fl-grupprum 14"
+    ],
+    "popularName": "Fl-Grupprum 14",
+    "kthPopularName": "Fl-Grupprum 14",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6009",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "85fb675d-ff51-4bc9-b7b1-365294001330",
+    "uid": "85fb675d-ff51-4bc9-b7b1-365294001330",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6009"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 14"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 14"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24230,
+    "roomNumber": "6008",
+    "roomDisplayName": "Fl-Grupprum 13",
+    "searchRoomNames": [
+      "fl-grupprum 13",
+      "fl-grupprum 13",
+      "fl-grupprum 13"
+    ],
+    "popularName": "Fl-Grupprum 13",
+    "kthPopularName": "Fl-Grupprum 13",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6008",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "61da119f-48b5-4e0d-a20a-124837f86b47",
+    "uid": "61da119f-48b5-4e0d-a20a-124837f86b47",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6008"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 13"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 13"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24237,
+    "roomNumber": "6615",
+    "roomDisplayName": "Fl-Grupprum 18",
+    "searchRoomNames": [
+      "fl-grupprum 18",
+      "fl-grupprum 18",
+      "fl-grupprum 18"
+    ],
+    "popularName": "Fl-Grupprum 18",
+    "kthPopularName": "Fl-Grupprum 18",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6615",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "57bfd6b3-012b-47bf-aa3b-2cafaf7c3a03",
+    "uid": "57bfd6b3-012b-47bf-aa3b-2cafaf7c3a03",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6615"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": "Öppet rum"
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": "Open space"
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": "Öppet rum"
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 18"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 18"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24269,
+    "roomNumber": "6319",
+    "roomDisplayName": "Fl-Grupprum 16",
+    "searchRoomNames": [
+      "fl-grupprum 16",
+      "fl-grupprum 16",
+      "fl-grupprum 16"
+    ],
+    "popularName": "Fl-Grupprum 16",
+    "kthPopularName": "Fl-Grupprum 16",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6319",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "6",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "06",
+    "floorId": "422",
+    "floorUid": "9328453f-0fdf-460b-b4b6-b7c3d9745cd9",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "5a1019c4-9547-412d-81f8-6bff49f6e9a1",
+    "uid": "5a1019c4-9547-412d-81f8-6bff49f6e9a1",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\06\\6319"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "6"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 16"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 16"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24509,
+    "roomNumber": "8515",
+    "roomDisplayName": "8515",
+    "searchRoomNames": [
+      "8515"
+    ],
+    "popularName": "",
+    "kthPopularName": "",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8515",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "8",
+    "isSchedulable": false,
+    "isBookable": false,
+    "url": "",
+    "numSeats": "N/A",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "08",
+    "floorId": "424",
+    "floorUid": "9bbc7a69-edb6-4098-89e2-189218c61bac",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "06493fa7-aa2a-4b02-808c-cd5144cfbd23",
+    "uid": "06493fa7-aa2a-4b02-808c-cd5144cfbd23",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": null
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": null
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8515"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "8"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": null
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": null
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24517,
+    "roomNumber": "8807",
+    "roomDisplayName": "Fl-Grupprum 21",
+    "searchRoomNames": [
+      "fl-grupprum 21",
+      "fl-grupprum 21",
+      "fl-grupprum 21"
+    ],
+    "popularName": "Fl-Grupprum 21",
+    "kthPopularName": "Fl-Grupprum 21",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8807",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "8",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "08",
+    "floorId": "424",
+    "floorUid": "9bbc7a69-edb6-4098-89e2-189218c61bac",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "2912bea8-aee5-4085-8806-53ade4cb2ade",
+    "uid": "2912bea8-aee5-4085-8806-53ade4cb2ade",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": "RKH_gem_schema"
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8807"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "8"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 21"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 21"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24518,
+    "roomNumber": "8808",
+    "roomDisplayName": "Fl-Grupprum 22",
+    "searchRoomNames": [
+      "fl-grupprum 22",
+      "fl-grupprum 22",
+      "fl-grupprum 22"
+    ],
+    "popularName": "Fl-Grupprum 22",
+    "kthPopularName": "Fl-Grupprum 22",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8808",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "8",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "08",
+    "floorId": "424",
+    "floorUid": "9bbc7a69-edb6-4098-89e2-189218c61bac",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "8dbe1c49-93b4-4dd5-953c-91f6db295077",
+    "uid": "8dbe1c49-93b4-4dd5-953c-91f6db295077",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": "RKH_gem_schema"
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8808"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "8"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 22"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 22"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24519,
+    "roomNumber": "8805",
+    "roomDisplayName": "Fl-Grupprum 19",
+    "searchRoomNames": [
+      "fl-grupprum 19",
+      "fl-grupprum 19",
+      "fl-grupprum 19"
+    ],
+    "popularName": "Fl-Grupprum 19",
+    "kthPopularName": "Fl-Grupprum 19",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8805",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "8",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "08",
+    "floorId": "424",
+    "floorUid": "9bbc7a69-edb6-4098-89e2-189218c61bac",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "e3c5dcf0-0ccf-44bf-9853-ba8e90c3306c",
+    "uid": "e3c5dcf0-0ccf-44bf-9853-ba8e90c3306c",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": "RKH_gem_schema"
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8805"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "8"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 19"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 19"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  },
+  {
+    "geoData": {
+      "lat": 59.221338,
+      "long": 17.938955
+    },
+    "roomId": 24520,
+    "roomNumber": "8806",
+    "roomDisplayName": "Fl-Grupprum 20",
+    "searchRoomNames": [
+      "fl-grupprum 20",
+      "fl-grupprum 20",
+      "fl-grupprum 20"
+    ],
+    "popularName": "Fl-Grupprum 20",
+    "kthPopularName": "Fl-Grupprum 20",
+    "kthLokalkod": "",
+    "kthLokalBeteckning": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8806",
+    "name": "",
+    "typeName": "Grupprum",
+    "requiresUpdate": true,
+    "campus": "KTH Flemingsberg",
+    "buildingName": "Technology and Health",
+    "buildingId": 66,
+    "buildingUid": "829e8afd-8060-440c-9517-d74dd815767f",
+    "streetAddress": "Hälsovägen",
+    "streetNumber": "11C",
+    "streetAddressDisabled": "",
+    "streetNumberDisabled": "",
+    "country": "Sverige",
+    "city": "Huddinge",
+    "zip": "141 52",
+    "floor": "8",
+    "isSchedulable": false,
+    "isBookable": true,
+    "url": "",
+    "numSeats": "6",
+    "numSeatsExamination": "N/A",
+    "numSeatsDisabled": "N/A",
+    "floorName": "08",
+    "floorId": "424",
+    "floorUid": "9bbc7a69-edb6-4098-89e2-189218c61bac",
+    "shouldBeIndexed": "true",
+    "updatedAt": "2021-05-03T04:50:00.048Z",
+    "_id": "38d838ad-511a-468a-b9de-cb77afe9859d",
+    "uid": "38d838ad-511a-468a-b9de-cb77afe9859d",
+    "__v": 0,
+    "imageUrls": [],
+    "allAttributes": [
+      {
+        "name": "kthAntalDatorer",
+        "value": null
+      },
+      {
+        "name": "kthBehörighet1",
+        "value": "KTH_web_stud"
+      },
+      {
+        "name": "kthBehörighet2",
+        "value": "RKH_web_stud"
+      },
+      {
+        "name": "kthBehörighet3",
+        "value": "RKH_gem_schema"
+      },
+      {
+        "name": "kthBildURL1",
+        "value": null
+      },
+      {
+        "name": "kthBildURL2",
+        "value": null
+      },
+      {
+        "name": "kthBildURL3",
+        "value": null
+      },
+      {
+        "name": "kthBildURL4",
+        "value": null
+      },
+      {
+        "name": "kthBokasSeparat",
+        "value": "Ja"
+      },
+      {
+        "name": "kthBokningsbar",
+        "value": "Ja"
+      },
+      {
+        "name": "kthCampus",
+        "value": "KTH Flemingsberg"
+      },
+      {
+        "name": "kthDebiteras",
+        "value": "Nej"
+      },
+      {
+        "name": "kthFlyttbarLärarmöbel",
+        "value": null
+      },
+      {
+        "name": "kthFullständigLokalbeteckning",
+        "value": "FLEMINGSBERG\\FLEMINGSBERG\\MEDICINAREN 5\\08\\8806"
+      },
+      {
+        "name": "kthGatunamn",
+        "value": "Hälsovägen"
+      },
+      {
+        "name": "kthGatunamnFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthGatunummer",
+        "value": "11C"
+      },
+      {
+        "name": "kthGatunummerFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthHusnamn",
+        "value": "Technology and Health"
+      },
+      {
+        "name": "kthIKT",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe1",
+        "value": null
+      },
+      {
+        "name": "kthIntäktsställe2",
+        "value": null
+      },
+      {
+        "name": "kthKommentarer",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthKommentarerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthKortläsare",
+        "value": null
+      },
+      {
+        "name": "kthLand",
+        "value": "Sverige"
+      },
+      {
+        "name": "kthLatitud",
+        "value": "59.221338"
+      },
+      {
+        "name": "kthLokalklass",
+        "value": null
+      },
+      {
+        "name": "kthLokalkod",
+        "value": null
+      },
+      {
+        "name": "kthLongitud",
+        "value": "17.938955"
+      },
+      {
+        "name": "kthOmmöbleringsbar",
+        "value": null
+      },
+      {
+        "name": "kthPlan",
+        "value": "8"
+      },
+      {
+        "name": "kthPlanFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPlatser",
+        "value": "6"
+      },
+      {
+        "name": "kthPlatserFunktionshindrade",
+        "value": null
+      },
+      {
+        "name": "kthPopulärnamn",
+        "value": "Fl-Grupprum 20"
+      },
+      {
+        "name": "kthPostnummer",
+        "value": "141 52"
+      },
+      {
+        "name": "kthPostort",
+        "value": "Huddinge"
+      },
+      {
+        "name": "kthPubliceraTillAnvändare",
+        "value": "Ja"
+      },
+      {
+        "name": "kthRestriktioner",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerEngelska",
+        "value": null
+      },
+      {
+        "name": "kthRestriktionerSvenska",
+        "value": null
+      },
+      {
+        "name": "kthSchemaläggningsbar",
+        "value": "Nej"
+      },
+      {
+        "name": "kthStart",
+        "value": null
+      },
+      {
+        "name": "kthStatus",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningEngelska",
+        "value": null
+      },
+      {
+        "name": "kthStatusBeskrivningSvenska",
+        "value": null
+      },
+      {
+        "name": "kthStolarPerDator",
+        "value": null
+      },
+      {
+        "name": "kthStopp",
+        "value": null
+      },
+      {
+        "name": "kthTentaplatser",
+        "value": null
+      },
+      {
+        "name": "kthURL",
+        "value": null
+      },
+      {
+        "name": "kthZon",
+        "value": null
+      },
+      {
+        "name": "Populärnamn",
+        "value": "Fl-Grupprum 20"
+      }
+    ],
+    "equipment": null,
+    "allComponents": null
+  }
+]
